@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.Properties.Resources.resources
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.Form1.resources
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\InuWayBackHome.exe.config
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\InuWayBackHome.exe
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\InuWayBackHome.pdb
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.exe
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\InuWayBackHome.pdb

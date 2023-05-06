@@ -1,0 +1,22 @@
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\GAME ENDLESS RUNNER ( bai tap nhom).exe.config
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\GAME ENDLESS RUNNER ( bai tap nhom).exe
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\GAME ENDLESS RUNNER ( bai tap nhom).pdb
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.AssemblyReference.cache
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME_ENDLESS_RUNNER___bai_tap_nhom_.Form1.resources
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME_ENDLESS_RUNNER___bai_tap_nhom_.Properties.Resources.resources
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.GenerateResource.cache
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.CoreCompileInputs.cache
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).exe
+C:\Users\Mr Phat\Desktop\C#\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).pdb
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\GAME ENDLESS RUNNER ( bai tap nhom).exe.config
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\GAME ENDLESS RUNNER ( bai tap nhom).exe
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\bin\Debug\GAME ENDLESS RUNNER ( bai tap nhom).pdb
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME_ENDLESS_RUNNER___bai_tap_nhom_.Form1.resources
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME_ENDLESS_RUNNER___bai_tap_nhom_.Properties.Resources.resources
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).exe
+C:\Users\Admin\Downloads\Program\GAME ENDLESS RUNNER ( bai tap nhom)\GAME ENDLESS RUNNER ( bai tap nhom)\obj\Debug\GAME ENDLESS RUNNER ( bai tap nhom).pdb
